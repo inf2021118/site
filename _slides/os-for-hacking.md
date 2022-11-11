@@ -1,7 +1,7 @@
 ---
 layout: slides 
 title: os for hacking
-image_url: /images/debian-linux.png
+image_url: /images/kaliLinux.png
 caption: os for hacking linux
 slides:
  - parrotOS
