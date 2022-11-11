@@ -19,3 +19,6 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/inf2021118/text
+[submodule "_includes/_gallery"]
+	path = _includes/_gallery
+	url = https://github.com/inf2021118/_gallery
