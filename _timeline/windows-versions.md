@@ -1,6 +1,6 @@
 ---
 layout: timeline 
-title: Εκδόσεις win dows 
+title: Εκδόσεις windows 
 image_url: /images/windows_7.png
 caption: Εκδόσεις των windows 
 events:
